@@ -1,0 +1,6 @@
+com\tka\BillProduct\controller\ProductController.class
+com\tka\BillProduct\entity\Charges.class
+com\tka\BillProduct\entity\Bill.class
+com\tka\BillProduct\BillProductApplication.class
+com\tka\BillProduct\entity\Product.class
+com\tka\BillProduct\entity\ProductCharges.class
